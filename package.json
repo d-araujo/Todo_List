@@ -1,5 +1,5 @@
 {
-  "name": "todo_list",
+  "name": "site2",
   "version": "1.0.0",
   "main": "app.js",
   "scripts": {
@@ -10,11 +10,14 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "dependencies": {
-    "ejs": "^3.1.8",
-    "express": "^4.18.1"
-  },
   "description": "",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "consign": "^0.1.6",
+    "ejs": "^3.1.8",
+    "express": "^4.18.1",
+    "mongoose": "^6.3.3"
+  },
   "devDependencies": {
     "nodemon": "^2.0.16"
   }
